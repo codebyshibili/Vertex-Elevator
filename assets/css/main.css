@@ -7409,7 +7409,7 @@ body .ui-tooltip {
   height: 100%;
   width: 0;
   position: absolute;
-  background-color: rgba(221, 7, 50, 0.949);
+  background-color: #0e733b;
   transition: 0.4s;
 }
 .tp-footer-thumb-icon {
