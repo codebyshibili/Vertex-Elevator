@@ -10497,7 +10497,7 @@ body .ui-tooltip {
   padding-right: 260px;
   color: var(--tp-common-white);
   background-color: #0e733b;
-  border: 2px solid #e38b9d;
+  border: 2px solid  #76af90;
 }
 @media (max-width: 767px) {
   .tp-cta-right-box input {
